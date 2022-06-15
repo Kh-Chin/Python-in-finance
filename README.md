@@ -1,4 +1,4 @@
-# python-in-finance
+# Python-in-finance
 This is my beginner course project to apply python in finance.
 
 Used skills:
